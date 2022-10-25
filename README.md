@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piterz6
 - 👀 I’m interested in playing computer games mostly in Warhammer 40k universe whih im insterested most. I like also to read books and hiking.
-- 🌱 I’m currently learning JavaScript but its. I like React architecture a lot!
+- 🌱 I’m currently learning JavaScript but I like React architecture a lot!
 - 💞️ Currently i'm writing code just for fun, as always. It gives a lot of fun!
 - 📫 How to reach me - via email krupapiotr500@gmail.com
 
